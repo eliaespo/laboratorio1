@@ -7,7 +7,7 @@ body{
     color: #333;
 }
 header{
-    background-color: #9b4caf;
+    background-color: #4c74af;
     color: white;
     text-align: center;
     padding: 40px;
@@ -20,7 +20,7 @@ section{
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 h2{
-    color:  #9b4caf;
+    color:  #4c74af;
 }
 ul{
     list-style-type: none;
@@ -33,8 +33,8 @@ ul li{
    border-radius: 5px;
 }
 footer{
-    background-color: #333;
-    color: white;
+    background-color: #e0e0e0;
+    color: #2e2424;
     text-align: center;
     padding: 10px;
     width: 100%;
@@ -55,17 +55,17 @@ input, button{
     border: 1px solid #ccc;
 }
 button{
-    background-color:  #9b4caf;
+    background-color:  #4c74af;
     color: white;
     border: none;
     cursor: pointer;
 }
 button{
-    background-color:  #9b4caf;
+    background-color: #4c74af;
 }
 /*enlaces*/
 a{
-    color:  #9b4caf;
+    color:  #4c74af;
     text-decoration: none;
 }
 a:hover{
